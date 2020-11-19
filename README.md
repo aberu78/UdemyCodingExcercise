@@ -1,1 +1,1 @@
-# UdemyCodingExcercise
+This is my udemy Java Master course repository
